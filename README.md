@@ -38,7 +38,7 @@ Este proyecto consiste en crear una conexión con un dataset y trabajar con un c
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/pandas_df_tlp3_nombre_apellido.git
+   git clone https://github.com/GastonFlorenciano/pandas_df_tlp3_Gaston_Florenciano.git
    ```
 
 2. Instala las dependencias:
